@@ -1,0 +1,42 @@
+{
+    "$schema": "https://biomejs.dev/schemas/1.7.0/schema.json",
+    "vcs": {
+        "enabled": true,
+        "clientKind": "git",
+        "useIgnoreFile": true
+    },
+    "formatter": {
+        "enabled": false
+    },
+    "organizeImports": { "enabled": true },
+    "linter": {
+        "enabled": true,
+        "rules": {
+            "recommended": true,
+            "correctness": {
+                "noUnusedImports": "error",
+                "noUnusedVariables": "error",
+                "useJsxKeyInIterable": "warn"
+            },
+            "style": {
+                "noParameterAssign": "off",
+                "useImportType": "off",
+                "useTemplate": "off",
+                "useNumberNamespace": "off"
+            },
+            "complexity": {
+                "noForEach": "off"
+            },
+            "performance": {
+                "noDelete": "off"
+            },
+            "a11y": {
+                "useKeyWithClickEvents": "off",
+                "useButtonType": "off",
+                "useAnchorContent": "off",
+                "useMediaCaption": "off",
+                "useKeyWithMouseEvents": "off"
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+# Ignore YAML files
+**/*.yaml
+**/*.yml
+
+# Ignore specific directories
+public/**
+
+# Commonly ignored directories and files
+node_modules
+build
+dist
+.git
+.DS_Store
