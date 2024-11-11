@@ -1,11 +1,5 @@
 run = "yarn dev --experimental-https"
 
-[nix]
-channel = "stable-22_11"
-
-[env]
-XDG_CONFIG_HOME = "/home/runner/.config"
-
 [languages]
 
 [languages.typescript]
@@ -20,6 +14,3 @@ language = "nodejs"
 [packager.features]
 packageSearch = true
 guessImports = true
-
-[formatter]
-format = "prettier --write ."

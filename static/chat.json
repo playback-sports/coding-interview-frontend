@@ -1,0 +1,124 @@
+{
+    "messages": [
+        {
+            "id": "1",
+            "avatarUrl": "https://i.pravatar.cc/150?u=joe@playback.tv",
+            "username": "Joe",
+            "text": "Hello, how are you?"
+        },
+        {
+            "id": "2",
+            "avatarUrl": "https://i.pravatar.cc/150?u=tom@playback.tv",
+            "username": "Tom",
+            "text": "I'm good, thanks!"
+        },
+        {
+            "id": "3",
+            "avatarUrl": "https://i.pravatar.cc/150?u=joe@playback.tv",
+            "username": "Joe",
+            "text": "What's up?"
+        },
+        {
+            "id": "4",
+            "avatarUrl": "https://i.pravatar.cc/150?u=tom@playback.tv",
+            "username": "Tom",
+            "text": "Not much, just watching some videos."
+        },
+        {
+            "id": "5",
+            "avatarUrl": "https://i.pravatar.cc/150?u=maurya@playback.tv",
+            "username": "Maurya",
+            "text": "Hey everyone! Mind if I join the conversation?"
+        },
+        {
+            "id": "6",
+            "avatarUrl": "https://i.pravatar.cc/150?u=joe@playback.tv",
+            "username": "Joe",
+            "text": "Of course not! Welcome Maurya!"
+        },
+        {
+            "id": "7",
+            "avatarUrl": "https://i.pravatar.cc/150?u=ari@playback.tv",
+            "username": "Ari",
+            "text": "Hi all! Long time no see 👋"
+        },
+        {
+            "id": "8",
+            "avatarUrl": "https://i.pravatar.cc/150?u=tom@playback.tv",
+            "username": "Tom",
+            "text": "The gang's all here!"
+        },
+        {
+            "id": "9",
+            "avatarUrl": "https://i.pravatar.cc/150?u=maurya@playback.tv",
+            "username": "Maurya",
+            "text": "What videos are you watching, Tom?"
+        },
+        {
+            "id": "10",
+            "avatarUrl": "https://i.pravatar.cc/150?u=tom@playback.tv",
+            "username": "Tom",
+            "text": "Just some coding tutorials. Trying to learn React!"
+        },
+        {
+            "id": "11",
+            "avatarUrl": "https://i.pravatar.cc/150?u=ari@playback.tv",
+            "username": "Ari",
+            "text": "React is awesome! I can help you with that."
+        },
+        {
+            "id": "12",
+            "avatarUrl": "https://i.pravatar.cc/150?u=joe@playback.tv",
+            "username": "Joe",
+            "text": "Yeah, Ari is our resident React expert!"
+        },
+        {
+            "id": "13",
+            "avatarUrl": "https://i.pravatar.cc/150?u=maurya@playback.tv",
+            "username": "Maurya",
+            "text": "Anyone want to work on a project together?"
+        },
+        {
+            "id": "14",
+            "avatarUrl": "https://i.pravatar.cc/150?u=tom@playback.tv",
+            "username": "Tom",
+            "text": "That would be great! What did you have in mind?"
+        },
+        {
+            "id": "15",
+            "avatarUrl": "https://i.pravatar.cc/150?u=maurya@playback.tv",
+            "username": "Maurya",
+            "text": "Maybe a chat app like this one? 😄"
+        },
+        {
+            "id": "16",
+            "avatarUrl": "https://i.pravatar.cc/150?u=ari@playback.tv",
+            "username": "Ari",
+            "text": "Count me in! We could use React for the frontend"
+        },
+        {
+            "id": "17",
+            "avatarUrl": "https://i.pravatar.cc/150?u=joe@playback.tv",
+            "username": "Joe",
+            "text": "I can handle the backend if you want"
+        },
+        {
+            "id": "18",
+            "avatarUrl": "https://i.pravatar.cc/150?u=tom@playback.tv",
+            "username": "Tom",
+            "text": "Perfect! When do we start?"
+        },
+        {
+            "id": "19",
+            "avatarUrl": "https://i.pravatar.cc/150?u=maurya@playback.tv",
+            "username": "Maurya",
+            "text": "How about this weekend? I'll set up a GitHub repo"
+        },
+        {
+            "id": "20",
+            "avatarUrl": "https://i.pravatar.cc/150?u=ari@playback.tv",
+            "username": "Ari",
+            "text": "Sounds like a plan! 🚀"
+        }
+    ]
+}
